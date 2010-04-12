@@ -1,0 +1,7 @@
+#ifndef TRAFAN_TYPES_H
+#define TRAFAN_TYPES_H
+
+typedef int i32;
+typedef unsigned int u32;
+
+#endif

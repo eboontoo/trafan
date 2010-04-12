@@ -1,0 +1,10 @@
+#ifndef TRAFAN_NET_STRUCTS
+#define TRAFAN_NET_STRUCTS
+
+struct net__frame {
+        uint8 dst[6];
+        uint8 src[6];
+        uint16 type; 
+};
+
+#endif
